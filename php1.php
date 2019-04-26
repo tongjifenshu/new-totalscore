@@ -1,3 +1,1 @@
-<? php
-phpdj\f()
->dkffdjkdsfjkashfidfhafjsdghfgadsfhjsdfj
+积分等级开发贷款
